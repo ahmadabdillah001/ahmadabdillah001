@@ -64,7 +64,7 @@
 
 ### 📈 GitHub Stats
 
-<p>
+<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadabdillah001&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabdillah001&layout=compact" alt="Top Languages" height="150"/>
 </p>
