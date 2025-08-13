@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Ahmad Abdillah 👋</h1>
+<h1>Hi there, I'm Ahmad Abdillah 👋</h1>
 
-<p align="center">
+<p>
   🌱 I’m currently learning Flutter and Next.js building creative apps<br>
   🔭 I’m working on personal projects and freelance websites and mobile<br>
   💬 Ask me about Flutter, Web Dev, or anything tech-related<br>
@@ -21,8 +21,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadabdillah001&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabdillah001&layout=compact" alt="Top Languages" height="150"/>
 </p>
 
 <!-- Ganti USERNAME dengan username GitHub-mu -->
