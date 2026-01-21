@@ -13,7 +13,7 @@
 ### 🎓 Education
 
 - **Politeknik IDN Bogor** (2024 - 2028)  
-  _Studying Backend Development (Laravel) & Frontend Mobile (Flutter)_
+  _Studying Software Engineering_
 
 - **Imam Syafi'ie Tulungagung Islamic Boarding School** (2020 - 2023)  
   _Islamic High School & Boarding School_
