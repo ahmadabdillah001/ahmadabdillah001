@@ -22,7 +22,7 @@
 
 ### 💼 Work Experience
 
-- **IT Teacher** (2025 - Present)  
+- **IT Teacher** (2025)  
   _Teaching basic logic using Scratch, Roblox, and other game-based tools._
 
 - **Freelance Software Engineer** (2024 - Present)  
