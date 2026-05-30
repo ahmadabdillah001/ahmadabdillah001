@@ -54,8 +54,6 @@ I'm a **mobile and web developer** from Indonesia, specializing in **Flutter**, 
 
 Flutter-based mobile app commissioned by PT Pertamina Patra Niaga personnel to monitor aviation fuel hydrant pit cleaning logs. Eliminated paper-based workflows at airport facilities with offline-first architecture and automated reporting.
 
-*Deployed to aviation maintenance teams*
-
 </td>
 <td width="50%">
 
