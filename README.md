@@ -52,7 +52,7 @@ I'm a **mobile and web developer** from Indonesia, specializing in **Flutter**, 
 #### 📱 AVI Pit Log
 **Flutter | SQLite | PDF Generation**
 
-Cross-platform mobile app that digitized refueling pit maintenance logs at airport facilities. Eliminated paper-based workflows with offline-first architecture and automated reporting.
+Flutter-based mobile app commissioned by PT Pertamina Patra Niaga personnel to monitor aviation fuel hydrant pit cleaning logs. Eliminated paper-based workflows at airport facilities with offline-first architecture and automated reporting.
 
 *Deployed to aviation maintenance teams*
 
