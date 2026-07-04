@@ -8,10 +8,8 @@
 
 I'm a **mobile and web developer** from Indonesia, specializing in **Flutter**, **Laravel** and **Next Js**. I build practical tools that solve real problems — from digitizing aviation maintenance workflows to teaching programming to high school students.
 
-🔭 **Currently working on:** Cross-platform mobile apps with Flutter, backend systems with Laravel, and Next Js as frontend  
-🌱 **Currently learning:** React Js/Next Js, microservices architecture, mobile performance optimization  
-💼 **Open to:** Freelance projects, remote opportunities, and software house collaborations  
-📫 **Reach me:** [masahhmad001@gmail.com](mailto:masahhmad001@gmail.com) | [masahhmad.com](https://masahhmad.com)
+**Currently working on:** Cross-platform mobile apps with Flutter, backend systems with Laravel, and Next Js as frontend  
+**Reach me:** [masahhmad001@gmail.com](mailto:masahhmad001@gmail.com) | [masahhmad.com](https://masahhmad.com)
 
 ---
 
