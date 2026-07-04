@@ -24,88 +24,16 @@ I'm a **mobile and web developer** from Indonesia, specializing in **Flutter**, 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries:**  
+**Frameworks :**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### 📱 AVI Pit Log
-**Flutter | SQLite | PDF Generation**
-
-Flutter-based mobile app commissioned by PT Pertamina Patra Niaga personnel to monitor aviation fuel hydrant pit cleaning logs. Eliminated paper-based workflows at airport facilities with offline-first architecture and automated reporting.
-
-</td>
-<td width="50%">
-
-#### 🎓 E-Course Platform
-**Laravel | MySQL | Blade**
-
-Learning management system built to deliver structured programming courses. Features modular content management and user progress tracking.
-
-🔗 [View Details](https://masahhmad.com/projects/2)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🕌 Prayer Time Table
-**Vanilla JS | MyQuran API**
-
-Lightweight SPA that displays real-time prayer schedules for cities across Indonesia. Built with pure JavaScript for fast load times and minimal dependencies.
-
-🔗 [Live Demo](https://github.com/masahhmad/web-jadwal-sholat) | [Code](https://github.com/masahhmad/web-jadwal-sholat)
-
-</td>
-<td width="50%">
-
-#### 📚 More Projects
-Check out my complete portfolio at **[masahhmad.com](https://masahhmad.com)**
-
-Or explore all my repositories below 👇
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masahhmad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masahhmad&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-### 💼 Experience Highlights
-
-- **Mobile Developer** — Built production Flutter apps for aviation operations
-- **Technical Trainer** — Led intensive Flutter development bootcamp
-- **IT Teacher** — Taught programming & IoT fundamentals to high school students
-- **Graphic Designer** — Created visual content for social media & YouTube (2023-2024)
 
 ---
 
@@ -127,6 +55,6 @@ Or explore all my repositories below 👇
   <img src="https://komarev.com/ghpvc/?username=masahhmad&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <i>⭐ Feel free to star any repos you find interesting!</i>
-</div>
+</div> -->
