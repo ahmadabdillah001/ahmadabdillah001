@@ -4,16 +4,16 @@
 
 ---
 
-### 👋 Hey, I'm Ahmad
+### Hey, I'm Ahmad
 
-I'm a **mobile and web developer** from Indonesia, specializing in **Flutter**, **Laravel** and **React Js**. I build practical tools that solve real problems — from digitizing aviation maintenance workflows to teaching programming to high school students.
+I'm a **mobile and web developer** from Indonesia, specializing in **Flutter**, **Laravel** and **React Js**. I build practical tools that solve real problems.
 
 **Currently working on:** Cross-platform mobile apps with Flutter, backend systems with Laravel, and React Js as frontend  
 **Reach me:** [masahhmad001@gmail.com](mailto:masahhmad001@gmail.com) | [masahhmad.com](https://masahhmad.com)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:**  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -33,7 +33,7 @@ I'm a **mobile and web developer** from Indonesia, specializing in **Flutter**, 
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <div align="center">
   
